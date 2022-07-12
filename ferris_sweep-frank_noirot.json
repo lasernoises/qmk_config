@@ -40,7 +40,7 @@
       "KC_LSFT",
       "LT(5,KC_SPC)",
       "LT(4,KC_BSPC)",
-      "TG(1)"
+      "TO(1)"
     ],
     [
       "KC_NO",
@@ -73,10 +73,10 @@
       "KC_AGIN",
       "KC_FIND",
       "KC_NO",
-      "TG(0)",
+      "TO(0)",
       "KC_TRNS",
       "KC_TRNS",
-      "TG(2)"
+      "KC_TRNS"
     ],
     [
       "KC_NO",
@@ -109,10 +109,10 @@
       "KC_WH_D",
       "KC_WH_U",
       "KC_WH_R",
-      "TG(0)",
+      "TO(0)",
       "KC_BTN1",
       "KC_BTN2",
-      "TG(3)"
+      "KC_TRNS"
     ],
     [
       "KC_F1",
@@ -145,10 +145,10 @@
       "KC_RGUI",
       "KC_RCTL",
       "KC_RSFT",
-      "TG(0)",
+      "TO(0)",
       "KC_SPC",
       "KC_BSPC",
-      "TG(0)"
+      "KC_TRNS"
     ],
     [
       "KC_TRNS",
