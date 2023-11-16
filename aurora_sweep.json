@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "notes": "",
+  "notes": "My awesome keymap",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
-  "keyboard": "ferris/sweep",
-  "keymap": "ferris_sweep-frank_noirot",
+  "keyboard": "splitkb/aurora/sweep/rev1",
+  "keymap": "aurora_sweep",
   "layout": "LAYOUT_split_3x5_2",
   "layers": [
     [
@@ -38,8 +38,8 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_LSFT",
-      "LT(5,KC_SPC)",
-      "LT(4,KC_BSPC)",
+      "LT(5,KC_BSPC)",
+      "LT(4,KC_SPC)",
       "TO(1)"
     ],
     [
@@ -182,7 +182,7 @@
       "KC_RCTL",
       "KC_BSLS",
       "KC_LSFT",
-      "KC_SPC",
+      "KC_LGUI",
       "KC_NO",
       "KC_NO"
     ],
@@ -218,10 +218,10 @@
       "KC_TRNS",
       "KC_TRNS",
       "OSM(MOD_HYPR)",
-      "KC_NO",
-      "KC_BSPC",
+      "KC_RCTL",
+      "KC_RGUI",
       "KC_DEL"
     ]
   ],
-  "author": ""
+  "author": "Anonymous"
 }
