@@ -74,8 +74,8 @@
       "KC_LCBR",
       "KC_RCBR",
       "TO(4)",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_NO",
+      "KC_NO",
       "KC_NO"
     ],
     [
