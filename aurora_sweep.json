@@ -143,7 +143,7 @@
       "KC_LALT",
       "KC_LCTL",
       "KC_LSFT",
-      "KC_NO",
+      "KC_LCTL",
       "KC_DEL",
       "LGUI(KC_LSFT)",
       "KC_LGUI",
