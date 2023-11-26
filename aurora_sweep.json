@@ -75,7 +75,7 @@
       "KC_RCBR",
       "TO(4)",
       "KC_NO",
-      "KC_NO",
+      "TO(4)",
       "KC_NO"
     ],
     [
@@ -147,7 +147,7 @@
       "KC_LCTL",
       "LGUI(KC_LSFT)",
       "KC_LGUI",
-      "KC_NO",
+      "KC_TRNS",
       "KC_NO"
     ],
     [
@@ -183,7 +183,7 @@
       "KC_MUTE",
       "TO(0)",
       "KC_NO",
-      "KC_NO",
+      "KC_TRNS",
       "TO(0)"
     ]
   ],
