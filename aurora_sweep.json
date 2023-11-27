@@ -73,7 +73,7 @@
       "KC_BSLS",
       "KC_LCBR",
       "KC_RCBR",
-      "TO(4)",
+      "LT(4,undefined)",
       "KC_NO",
       "TO(4)",
       "KC_NO"
@@ -182,7 +182,7 @@
       "KC_END",
       "KC_MUTE",
       "TO(0)",
-      "KC_NO",
+      "KC_TRNS",
       "KC_NO",
       "TO(0)"
     ]
