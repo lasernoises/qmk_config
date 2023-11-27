@@ -73,7 +73,7 @@
       "KC_BSLS",
       "KC_LCBR",
       "KC_RCBR",
-      "LT(4,undefined)",
+      "LT(4,KC_NO)",
       "KC_NO",
       "TO(4)",
       "KC_NO"
