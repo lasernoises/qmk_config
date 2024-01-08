@@ -99,7 +99,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_LCTL",
+      "KC_RGUI",
       "LALT(KC_BSPC)",
       "KC_LSFT",
       "KC_LCTL",
@@ -111,7 +111,7 @@
       "KC_TRNS",
       "KC_NO",
       "KC_NO",
-      "KC_RGUI",
+      "KC_NO",
       "LGUI(KC_LSFT)"
     ],
     [
@@ -144,9 +144,9 @@
       "KC_LCTL",
       "KC_LSFT",
       "KC_DEL",
-      "KC_LCTL",
-      "LGUI(KC_LSFT)",
       "KC_LGUI",
+      "LGUI(KC_LSFT)",
+      "KC_LCTL",
       "KC_NO",
       "KC_NO"
     ],
